@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cmmurakami
-- 👀 I’m an IT professional, most part of my life working with database. Nowadays, I work as MSSQL Server Database Administrator, focused in making things faster (in technical words: performance). 
+- 👀 I’m an IT professional, most part of my life working with database. Nowadays, I work as MSSQL Server Database Administrator, focused in making things faster (in technical words: performance), and I worked with Data warehouse and Business Intelligence, and I loved it!
 - 🌱 As you can see, I like database, especially MS SQL Server and Oracle, and I'm really interested in NOSQL and Data Science.
 
 <!---
